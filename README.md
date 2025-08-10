@@ -1,6 +1,6 @@
 # 📝 Text Sentiment Analyzer
 
-A simple, full-stack web app to detect the sentiment of any text snippet. Built with React (frontend) and Flask + TextBlob (backend).
+A simple, web app to detect the sentiment of any text snippet. Built with React (frontend) and Flask + TextBlob (backend).
 
 ---
 
