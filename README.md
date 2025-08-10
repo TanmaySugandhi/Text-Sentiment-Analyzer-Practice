@@ -40,7 +40,7 @@ A simple, web app to detect the sentiment of any text snippet. Built with React 
 ## 🖥️ Quick Start
 
 ### **Backend Setup**
-git clone https://github.com/YOUR_USERNAME/sentiment-backend.git
+git clone https://github.com/TanmaySugandhi/sentiment-backend.git
 cd sentiment-backend
 python -m venv venv
 source venv/bin/activate # (Windows: venv\Scripts\activate)
